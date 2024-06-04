@@ -1,15 +1,66 @@
 {
     "en": {
         "help_description":"Show help message",
-        "reset_description":"Reset the conversation. Optionally pass high-level instructions (e.g. /reset You are a helpful assistant)",
+        "reset_description":"Reset the conversation.",
         "image_description":"Generate image from prompt (e.g. /image cat)",
         "tts_description":"Generate speech from text (e.g. /tts my house)",
         "stats_description":"Get your current usage statistics",
         "resend_description":"Resend the latest message",
         "chat_description":"Chat with the bot!",
-        "disallowed":"Sorry, you are not allowed to use this bot. You can check out the source code at https://github.com/n3d1117/chatgpt-telegram-bot",
+        "disallowed":"Sorry, you are not allowed to use this bot.",
         "budget_limit":"Sorry, you have reached your usage limit.",
-        "help_text":["I'm a ChatGPT bot, talk to me!", "Send me a voice message or file and I'll transcribe it for you", "Open source at https://github.com/n3d1117/chatgpt-telegram-bot"],
+        "help_text":["🚀New post on Twitter/X:
+
+Command: +x +new
+
+EXAMPLE: +x +new 
+
+OUTPUT: $MEGA is the next big thing in crypto! Get in early and ride the wave to 100 million market cap! 🚀 #Crypto #MEGA #KenduInu
+
+
+🚀New post on Reddit:
+
+Command: +reddit +new
+
+EXAMPLE: +reddit +new 
+
+OUTPUT: Just discovered $MEGA by Kendu Labs! This gem is heading to 100 million market cap. Don't miss out on the next big crypto trend! #Crypto #MEGA #KenduInu
+
+
+🚀Short reply to a tweet:
+
+Command: +x +short +post
+
+EXAMPLE: +x +short +post What's the next big crypto to invest in?
+
+OUTPUT: $MEGA is going to the moon! 🚀 #Crypto #MEGA
+
+
+🚀Short reply to a Reddit post:
+
+Command: +reddit +short +post
+
+EXAMPLE: +reddit +short +post Any hot new crypto tips?
+
+OUTPUT: $MEGA is the future of crypto! Check it out! #KenduInu #MEGA
+
+
+🚀Long reply to a tweet:
+
+Command: +x +long +post
+
+EXAMPLE: +x +long +post Can anyone explain why $MEGA is worth investing in?
+
+OUTPUT: $MEGA is backed by Kendu Labs, the creators of Kendu Inu. With an experienced team and innovative technology, it's set to revolutionize the crypto space. Get in before it hits the 100 million market cap! 🚀 #Crypto #MEGA #KenduInu
+
+
+🚀Long reply to a Reddit post:
+
+Command: +reddit +long +post
+
+EXAMPLE: +reddit +long +post Why should I consider investing in $MEGA?
+
+OUTPUT: $MEGA, developed by Kendu Labs, is not just another cryptocurrency. It's set to transform the market with its cutting-edge technology and strong community support. With a target of 100 million market cap, this is the perfect time to invest. Don't miss out on what could be the biggest crypto story of the year! #Crypto #MEGA #KenduInu"],
         "stats_conversation":["Current conversation", "chat messages in history", "chat tokens in history"],
         "usage_today":"Usage today",
         "usage_month":"Usage this month",
@@ -43,8 +94,8 @@
         "openai_invalid":"OpenAI Invalid request",
         "error":"An error has occurred",
         "try_again":"Please try again in a while",
-        "answer_with_chatgpt":"Answer with ChatGPT",
-        "ask_chatgpt":"Ask ChatGPT",
+        "answer_with_chatgpt":"Answer with Raiding Bot",
+        "ask_chatgpt":"Ask Raiding Bot",
         "loading":"Loading...",
         "function_unavailable_in_inline_mode": "This function is unavailable in inline mode"
     },
